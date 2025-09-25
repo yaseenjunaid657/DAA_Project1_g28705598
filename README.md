@@ -18,6 +18,7 @@ It analyzes the runtime of a nested loop program and compares it with the theore
    cd DAA_Project1_g28705598
 
 Install dependencies (if not already installed):
+
   pip install matplotlib numpy
 
 
