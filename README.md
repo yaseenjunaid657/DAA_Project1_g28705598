@@ -5,13 +5,13 @@ It analyzes the runtime of a nested loop program and compares it with the theore
 
 ---
 
-## 🔹 Files
+## Files
 - `DAA_Project1_g28705598.ipynb` → Jupyter Notebook with code, outputs, and plots.
 - `README.md` → Instructions and project details.
 
 ---
 
-## 🔹 How to Run
+## How to Run
 1. Clone this repository:
    ```bash
    git clone https://github.com/yaseenjunaid657/DAA_Project1_g28705598.git
