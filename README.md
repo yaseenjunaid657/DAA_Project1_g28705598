@@ -17,7 +17,7 @@ It analyzes the runtime of a nested loop program and compares it with the theore
    git clone https://github.com/yaseenjunaid657/DAA_Project1_g28705598.git
    cd DAA_Project1_g28705598
 
-Install dependencies (if not already installed):
+2. Install dependencies (if not already installed):
   ```bash
   pip install matplotlib numpy
 
