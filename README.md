@@ -19,5 +19,5 @@ It analyzes the runtime of a nested loop program and compares it with the theore
 
 2. Install dependencies (if not already installed):
   ```bash
-  pip install matplotlib numpy
+    pip install matplotlib numpy
 
