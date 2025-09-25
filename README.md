@@ -21,14 +21,3 @@ Install dependencies (if not already installed):
   ```bash
   pip install matplotlib numpy
 
------
-
-Run the notebook:
-  Open Jupyter Notebook:
-  
-  jupyter notebook
-
-
-Then open DAA_Project1_g28705598.ipynb and run all cells. Or, run directly as a Python script (if saved as .py):
-
-  python3 daa_project.py
