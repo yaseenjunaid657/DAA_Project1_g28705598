@@ -14,8 +14,8 @@ This repository contains the code and report for analyzing a nested-loop algorit
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yaseenjunaid657/DAA_Project1_g28705598.git
-   cd DAA_Project1_g28705598
+   git clone https://github.com/yaseenjunaid657/DAA_Project1_G28705598.git
+   cd DAA_Project1_G28705598
 
 2. Install dependencies (if not already installed):
    ```bash
