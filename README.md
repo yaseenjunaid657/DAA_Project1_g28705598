@@ -6,7 +6,7 @@ This repository contains the code and report for analyzing a nested-loop algorit
 ---
 
 ## Files
-- `DAA_Project1_g28705598.ipynb` → Jupyter Notebook with code, outputs, and plots.
+- `G28705598_DAA.ipynb` → Jupyter Notebook with code, outputs, and plots.
 - `README.md` → Instructions and project details.
 
 ---
